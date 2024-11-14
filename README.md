@@ -5,8 +5,14 @@ Built upon the foundations of the OpenGait project, GaitLab enhances and expands
 
 Dive into our models, contribute to the community, and help shape the future of motion recognition!
 
+
 # Explanation
 ## ConvLstm(lr=0.05,+fusion) vs Baseline
+* ConvLstm
+    * [![](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/msdsn/GaitLab/blob/main/ConvLstm_(LR%3D0_05)_Fusion.ipynb)
+* Baseline
+    * [![](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/msdsn/GaitLab/blob/main/OpenGait_Framework.ipynb)
+
 ConsLstm daha hızlı öğreniyor ve sonuç hemen hemen aynı, cl de daha başarılı
 ![ConvLSTM vs Baseline](./images/convlstmvsbaseline.png)
 
