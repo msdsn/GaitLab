@@ -13,7 +13,7 @@ Dive into our models, contribute to the community, and help shape the future of 
 * Baseline
     * [![](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/msdsn/GaitLab/blob/main/OpenGait_Framework.ipynb)
 
-ConsLstm daha hızlı öğreniyor ve sonuç hemen hemen aynı, cl de daha başarılı
+ConvLstm daha hızlı öğreniyor ve sonuç hemen hemen aynı, cl de daha başarılı
 ![ConvLSTM vs Baseline](./images/convlstmvsbaseline.png)
 
 ## Neden lr=0.05
