@@ -5,6 +5,8 @@ Built upon the foundations of the OpenGait project, GaitLab enhances and expands
 
 Dive into our models, contribute to the community, and help shape the future of motion recognition!
 
+* Main Framework to run on Colab 
+    * [![](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/msdsn/GaitLab/blob/main/OpenGait_Framework.ipynb)
 
 # Explanation
 ## ConvLstm(lr=0.05,+fusion) vs Baseline
